@@ -3,9 +3,9 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Open State Foundation">
-  <meta property="og:title" content="TransparencyCamp Europe - Unconference and App Competition" />
+  <meta property="og:title" content="Accountability Hack - 9 september @ de Algemene Rekenkamer" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://transparencycamp.eu/wp-content/themes/tcampeu-theme/dist/images/tcampeu-logo-ogimage.png" />
+  <meta property="og:image" content="https://accountabilityhack.nl/wp-content/themes/accountability-hack-theme/dist/images/logo-accountability-hack-og.png" />
   <?php wp_head(); ?>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
