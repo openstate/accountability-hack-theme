@@ -11,24 +11,15 @@ $sidebar-sm-columns:    4;
 //== Colors
 //
 //## brand colors for use across the website.
+$light-blue:        rgb(200, 255, 255) !default;
+$blue:              rgb(0, 0, 255) !default;
 
-$yellow:            #ffcc00 !default; 
-$yellow-light:      lighten($yellow, 50%) !default;
+$white:             rgb(255, 255, 255) !default;
+$grey:              rgb(242, 242, 242) !default;
+$black:             rgb(0, 0, 0) !default;
 
-$red:               #ec2a2f !default; 
-$red-light:         lighten($red, 50%) !default;
-
-$green:             #09d35f !default; 
-$green-light:       lighten($green, 50%) !default;
-$green-dark:        darken($green, 10%) !default;
-
-$blue:              #0b4ea2 !default; 
-$blue-light:        lighten($blue, 50%) !default;
-
-$white:             #fff !default;
-$grey-light:        #f2f2f2 !default;
-$grey-dark:         #d4d4d4 !default;
-$black:             #000 !default;
+// Lines
+$border:              2px dotted $black;
 
 // We need to see how we will deal with the default colors 
 
@@ -43,7 +34,7 @@ $brand-danger:          #d9534f !default;
 //## Font, line-height, and color for body text, headings, and more.
 
 $font-family-sans-serif:  "Lato", Helvetica, Arial, sans-serif !default;
-$font-family-serif:       "Roboto slab", "Times New Roman", Times, serif !default;
+$font-family-serif:       "Courier New", "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   $font-family-serif , "Courier New", monospace !default;
 $font-family-base:        $font-family-sans-serif !default;

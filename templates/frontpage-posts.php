@@ -1,9 +1,9 @@
-<div class="container bg-grey-light">
+<div class="container bg-light-blue">
   <div class="row">
     <div class="col-lg-5 col-md-6 col-sm-7 col-xs-8">
       <div class="row">
         <div class="col-sm-8 col-sm-offset-2 col-xs-12">
-          <h2>News &amp; Datablogs</h2>
+          <h3><b>Nieuws &amp; Datablogs</b></h3>
         </div>
       </div>
     </div>
@@ -14,6 +14,7 @@
       <div class="row bg-white">
         <div class="col-md-10 col-md-offset-1">
           <div class="row">
+            <br>
             <div class="col-md-6">
               <?php
                 $args = array( 'posts_per_page' => 2, 'category_name' => 'News' );
@@ -37,12 +38,13 @@
                 wp_reset_postdata();
               ?>
             </div>
+            <p class="news-datablog-archive" style="text-align:right"><b><a href="https://accountabilityhack.nl/nieuws-datablogs/">Nieuws &amp; Datablogs archief  ></a></b></p>
+            <br>
           </div>
         </div>
       </div>
     </div>
   </div>
   <br>
-    <p style="text-align:right"><b><a href="https://transparencycamp.eu/news-datablogs/">News &amp; Datablogs archive</a></b></p>
   <br>
 </div>

@@ -1,32 +1,20 @@
 .registration-banner {
+  border: $border;
   font-size: 24px;
   font-family: $font-family-serif;
   padding-top: 20px;
   padding-bottom: 20px;
 
+  a:link, a:visited {
+    color: $black !important;
+  }
+
+  a:hover, a:active {
+    color: $black !important;
+  }
+
   span {
     float: right;
-  }
-}
-
-.btn-registration-banner {
-  background-color: white;
-  color: $green;
-  font-size: 24px;
-  border: solid $green 1px;
-  border-radius: 10px;
-  padding: 5px 40px;
-
-  min-height: 100%;
-  display: flex;
-  align-items: center;
-
-  span {
-    font-size: 26px;
-  }
-
-  &:hover {
-    color: $green-dark;
   }
 }
 
@@ -40,10 +28,10 @@
 }
 
 .frontpage-content-text {
-  font-size: 1.1em;
-  text-align: justify;
+  font-family: $font-family-serif;
+  font-size: 21px;
   padding-bottom: 20px;
-  line-height: 200%;
+  line-height: 24px;
 }
 
 .frontpage-content-icons {
@@ -72,4 +60,8 @@
 .frontpage-content-link:active {
   opacity: 0.7;
   color: inherit;
+}
+
+.news-datablog-archive a {
+  font-family: $font-family-serif;
 }

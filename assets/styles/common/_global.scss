@@ -2,11 +2,28 @@ body {
   font-family: $font-family-sans-serif;
   padding-top: 50px;
   padding-bottom: 20px;
+  line-height: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-serif;
-  font-weight: bold;
+  color: $black;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h1::before {
+  content: "#";
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h3::before {
+  content: "##";
 }
 
 .button, .btn {
@@ -14,7 +31,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+  text-size: 14px;
   text-align: left;
+}
+
+a:link {
+  color: $black;
+}
+
+a:visited {
+  color: $black;
+}
+
+a:hover {
+  color: $black;
+}
+
+a:active {
+  color: $black;
 }
 
 .display-inline {
@@ -29,32 +63,16 @@ p {
   background-color: white;
 }
 
-.bg-grey-light {
-  background-color: $grey-light;
+.bg-light-blue {
+  background-color: $light-blue;
 }
 
-.bg-green {
-  background-color: $green;
-}
-
-.bg-blue {
-  background-color: $blue;
+.bg-grey {
+  background-color: $grey;
 }
 
 .text-center {
   text-align: center;
-}
-
-.text-green {
-  color: $green;
-}
-
-.text-blue {
-  color: $blue;
-}
-
-.text-grey {
-  color: grey;
 }
 
 .bg-pattern-green {
@@ -71,10 +89,6 @@ p {
 
 .font-weight-normal {
   font-weight: normal;
-}
-
-.gif-height {
-  height: 320px;
 }
 
 .video-container {

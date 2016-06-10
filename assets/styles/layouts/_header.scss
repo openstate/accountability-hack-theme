@@ -1,24 +1,17 @@
 .header-full {
-  background-image: url("../images/patterns-green-background.svg");
-  background-repeat: repeat;
-}
-
-.header-logo {
-  background-image: url("../images/witvlak.svg");
-  background-repeat: no-repeat;
-}
-
-.header-logo {
+  background-color: $light-blue;
   font-size: 18px;
+  padding: 0 30px 0 30px;
 }
 
-.current-menu-item,
-.page-template-page-green .menu-item-28,
-.page-template-page-blue .menu-item-26,
-.single-post .menu-item-27 {
+.header-logo {
+  position: relative;
+  top: -50px;
+}
+
+.current-menu-item {
   > a {
-    color: $green;
-    border-bottom: 7px solid $green;
+    font-weight: bold;
   }
 }
 
@@ -30,8 +23,28 @@
   float: left;
 }
 
-.tceu-header {
+.brand-header {
   color: transparent;
   font: 0 / 0 a;
   display: inline;
+}
+
+.visible-lg-inline .nav-primary {
+  border-bottom: $border;
+}
+
+.nav-primary {
+  background-color: $light-blue;
+  font-family: $font-family-serif;
+  font-size: 21px;
+
+  a:link, a:visited {
+    color: $black;
+  }
+
+  a:hover, a:active, a:focus {
+    background-color: $light-blue !important;
+    color: $black;
+    font-weight: bold;
+  }
 }

@@ -1,18 +1,25 @@
 .category-news {
+  padding: 0 15px 0 15px;
+  margin: 10px;
+
   h3, h4 {
-    color: $green;
+    color: $black;
   }
 }
 
 .category-datablog {
+  border: $border;
+  padding: 0 15px 0 15px;
+  margin: 10px;
+
   h3, h4 {
-    color: $blue;
+    color: $black;
   }
 }
 
 .post-type {
   display: inline-block;
-  color: white;
+  color: $black;
   padding: 0 10px;
   margin-right: 10px;
 }
@@ -23,18 +30,32 @@
 
 .entry-title a:link {
   color: inherit;
+  font-weight: bold;
 }
 
 .entry-title a:visited {
   color: inherit;
+  font-weight: bold;
 }
 
 .entry-title a:hover {
   opacity: 0.5;
   color: inherit;
+  font-weight: bold;
 }
 
 .entry-title a:active {
   opacity: 0.7;
   color: inherit;
+  font-weight: bold;
+}
+
+.moretag {
+  color: $black !important;
+}
+
+.news-datablog-archive {
+  a:link, a:visited, a:hover, a:active {
+    color: $black;
+  }
 }

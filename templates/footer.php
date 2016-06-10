@@ -1,19 +1,25 @@
 <footer class="content-info">
-  <div class="container bg-grey-light">
+  <div class="container bg-grey">
     <br>
     <div class="hidden-xs">
       <div class="pull-left">
-        <a class="left-footer-padding" href="http://openstate.eu/" target="_blank"><img class="left-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-open-state-grey.svg'; ?>" alt="Open State Foundation logo"></a>
-        <a class="left-footer-padding" href="https://www.eu2016.nl/" target="_blank"><img class="left-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-eunl2016-grey.svg'; ?>" alt="The Netherlands EU Presidency 2016 logo"></a>
+        <ul class="list-inline left-footer-list-padding">
+          <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+          <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+          <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
+          <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack16" target="_blank">#AccHack16</a></li>
+        </ul>
       </div>
       <div class="pull-right">
-        <ul class="list-inline text-grey right-footer-list-padding">
-          <li><a class="right-footer-padding" href="https://www.facebook.com/events/1689822561284709/" target="_blank"><i class="fa fa-facebook fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="https://twitter.com/TCampEU" target="_blank"><i class="fa fa-twitter fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="mailto:tcampeu@openstate.eu"><i class="fa fa-envelope-o fa-2x text-grey"></i></a></li>
-          <li><a class="text-grey hashtag-font-size" href="https://twitter.com/search?f=tweets&q=tcampeu" target="_blank">#TCampEU</a></li>
-        </ul>
+        <a class="right-footer-padding" href="http://openstate.eu/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-open-state-black.svg'; ?>" alt="Open State Foundation logo"></a>
+        <a class="right-footer-padding" href="http://www.rekenkamer.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/ar_bw.svg'; ?>" alt="Algemene Rekenkamer logo"></a>
+        <a class="right-footer-padding" href="https://www.cbs.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/cbs_bw.svg'; ?>" alt="Centraal Bureau voor de Statistiek logo"></a>
+        <br>
+        <br>
+        <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minbzk_bw.svg'; ?>" alt="Ministerie van Binnenlandse Zaken en Koninkrijksrelaties logo"></a>
+        <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-milieu" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minienm_bw.svg'; ?>" alt="Ministerie van Infrastructuur en Milieu logo"></a>
+        <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-financien" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minfin_bw.svg'; ?>" alt="Ministerie van Financiën logo"></a>
+    <br>
       </div>
       <br>
       <br>
@@ -21,15 +27,21 @@
       <br>
     </div>
     <div class="visible-xs-block text-center">
-        <a class="left-footer-padding" href="http://openstate.eu/" target="_blank"><img class="left-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-open-state-grey.svg'; ?>" alt="Open State Foundation logo"></a>
-        <a href="https://www.eu2016.nl/" target="_blank"><img class="left-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-eunl2016-grey.svg'; ?>" alt="The Netherlands EU Presidency 2016 logo"></a>
-        <ul class="list-inline text-grey right-footer-list-padding">
-          <li><a class="right-footer-padding" href="https://www.facebook.com/events/1689822561284709/" target="_blank"><i class="fa fa-facebook fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="https://twitter.com/openstateeu" target="_blank"><i class="fa fa-twitter fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x text-grey"></i></a></li>
-          <li><a class="right-footer-padding" href="mailto:tcampeu@openstate.eu"><i class="fa fa-envelope-o fa-2x text-grey"></i></a></li>
-          <li><a class="text-grey hashtag-font-size" href="https://twitter.com/search?f=tweets&q=tcampeu" target="_blank">#TCampEU</a></li>
-        </ul>
+      <ul class="list-inline left-footer-list-padding">
+        <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+        <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+        <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
+        <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack16" target="_blank">#AccHack16</a></li>
+      </ul>
+      <a class="right-footer-padding" href="http://openstate.eu/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/logo-open-state-black.svg'; ?>" alt="Open State Foundation logo"></a>
+      <a class="right-footer-padding" href="http://www.rekenkamer.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/ar_bw.svg'; ?>" alt="Algemene Rekenkamer logo"></a>
+      <a class="right-footer-padding" href="https://www.cbs.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/cbs_bw.svg'; ?>" alt="Centraal Bureau voor de Statistiek logo"></a>
+      <br>
+      <br>
+      <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minbzk_bw.svg'; ?>" alt="Ministerie van Binnenlandse Zaken en Koninkrijksrelaties logo"></a>
+      <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-milieu" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minienm_bw.svg'; ?>" alt="Ministerie van Infrastructuur en Milieu logo"></a>
+      <a class="right-footer-padding" href="https://www.rijksoverheid.nl/ministeries/ministerie-van-financien" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/minfin_bw.svg'; ?>" alt="Ministerie van Financiën logo"></a>
+    <br>
     </div>
   </div>
 </footer>

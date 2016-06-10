@@ -1,19 +1,25 @@
-.left-footer-image {
-  height: 55px;
+.left-footer-padding {
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-.left-footer-padding {
-  padding-right: 45px;
+.left-footer-list-padding {
+  padding-top: 25px;
+}
+.right-footer-image {
+  height: 70px;
 }
 
 .right-footer-padding {
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-.right-footer-list-padding {
-  padding-top: 25px;
-}
 
 .hashtag-font-size {
   font-size: 1.4em;
+}
+
+footer > .container {
+  padding-bottom: 15px;
 }

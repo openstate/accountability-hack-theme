@@ -19,19 +19,12 @@ use Roots\Sage\Wrapper;
       get_template_part('templates/header');
     ?>
     <div class="wrap container" role="document">
-      <div class="content row">
+      <div class="content row bg-light-blue">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
       </div><!-- /.content -->
     </div><!-- /.wrap -->
-
-    <br>
-    <br>
-
-    <?php
-      get_template_part('templates/newsletter');
-    ?>
 
     <br>
     <br>
