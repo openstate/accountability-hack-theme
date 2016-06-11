@@ -21,19 +21,27 @@
                 <?php
                   for ($x = 0; $x < 2; $x++) :
                     $post = $myposts[$x];
-                    setup_postdata($post);
+                    if(!is_null($post)) :
+                      setup_postdata($post);
                 ?>
                   <?php get_template_part('templates/content', 'post'); ?>
-                <?php endfor; ?>
+                <?php
+                    endif;
+                  endfor;
+                ?>
               </div>
               <div class="col-md-6">
                 <?php
                   for ($x = 2; $x < 4; $x++) :
                     $post = $myposts[$x];
-                    setup_postdata($post);
+                    if(!is_null($post)) :
+                      setup_postdata($post);
                 ?>
                   <?php get_template_part('templates/content', 'post'); ?>
-                <?php endfor; ?>
+                <?php
+                    endif;
+                  endfor;
+                ?>
               </div>
               <?php
                 wp_reset_postdata();

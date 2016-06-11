@@ -38,9 +38,9 @@
                 wp_reset_postdata();
               ?>
             </div>
-            <p class="news-datablog-archive" style="text-align:right"><b><a href="https://accountabilityhack.nl/nieuws-datablogs/">Nieuws &amp; Datablogs archief  ></a></b></p>
-            <br>
           </div>
+          <p class="news-datablog-archive" style="text-align:right"><b><a href="https://accountabilityhack.nl/nieuws-datablogs/">Nieuws &amp; Datablogs archief  ></a></b></p>
+          <br>
         </div>
       </div>
     </div>
