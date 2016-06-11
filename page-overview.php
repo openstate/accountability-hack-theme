@@ -1,7 +1,7 @@
 <?php
-/*
- *  * Template Name: Overview Page
- *   * */
+/**
+ * Template Name: Overview Page
+ */
 ?>
 
 <div class="col-md-10 col-md-offset-1">
