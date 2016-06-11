@@ -1,4 +1,4 @@
-.category-news {
+.home .category-news {
   border: $border-white;
   padding: 0 15px 0 15px;
   margin: 10px;
@@ -8,7 +8,17 @@
   }
 }
 
-.category-datablog {
+.single .category-news {
+  border: $border-light-blue;
+  padding: 0 15px 0 15px;
+  margin: 10px;
+
+  h3, h4 {
+    color: $black;
+  }
+}
+
+.home .category-datablog, .single .category-datablog {
   border: $border;
   padding: 0 15px 0 15px;
   margin: 10px;
