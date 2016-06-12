@@ -58,3 +58,9 @@
     font-size: 18px;
   }
 }
+
+@media(max-width:1200px) {
+  .nav-primary {
+    background-color: $grey;
+  }
+}
