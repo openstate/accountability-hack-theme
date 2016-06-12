@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="251.77612"
-   height="51.0527"
+   width="300"
+   height="57.513596"
    id="svg3921"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="ar_bw.svg">
@@ -32,9 +32,9 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:zoom="4.5310636"
-     inkscape:cx="177.34784"
-     inkscape:cy="6.6290474"
+     inkscape:zoom="4"
+     inkscape:cx="151.41744"
+     inkscape:cy="41.79972"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-262.11194,-506.83583)"
+     transform="matrix(1.2080623,0,0,1.2080623,-318.72818,-614.36989)"
      id="layer1">
     <g
        transform="matrix(1.25,0,0,-1.25,-583.90781,1577.5564)"

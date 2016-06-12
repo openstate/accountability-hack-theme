@@ -11,9 +11,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="288.69241"
+   width="300"
    height="97"
-   viewBox="0 0 288.69242 97.000003"
+   viewBox="0 0 300.00001 97.000003"
    id="logo"
    xml:space="preserve"
    inkscape:version="0.48.4 r9939"
@@ -30,10 +30,10 @@
      inkscape:window-height="1056"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="4.3469775"
-     inkscape:cx="121.81777"
-     inkscape:cy="64.696088"
-     inkscape:window-x="1920"
+     inkscape:zoom="4"
+     inkscape:cx="117.29734"
+     inkscape:cy="25.025188"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="logo"
@@ -52,7 +52,7 @@
          x="190.6"
          y="-158.12" /></ns:sfw><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><g
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><g
      id="g7"
      transform="translate(10,10)"><g
        id="g9"><g

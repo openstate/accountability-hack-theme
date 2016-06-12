@@ -7,19 +7,13 @@
   padding-top: 25px;
 }
 
-.right-footer-image {
-  height: 70px;
+.hidden-xs .right-footer-image {
+  width: 30%;
 }
 
-.right-footer-image-osf {
-  height: 50px;
+.visible-xs-block .right-footer-image {
+  width: 80%;
 }
-
-.right-footer-padding {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
 
 .hashtag-font-size {
   font-size: 1.4em;

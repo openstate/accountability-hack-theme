@@ -52,3 +52,9 @@
     font-weight: bold;
   }
 }
+
+@media(max-width:767px) {
+  .nav-primary {
+    font-size: 18px;
+  }
+}
