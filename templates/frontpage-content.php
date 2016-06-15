@@ -1,18 +1,42 @@
 <div class="container">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1 registration-banner">
-      Inschrijvingen voor de <b>Hackathon</b> zijn nu open<span><a href="https://accountabilityhack.nl/hackathon/#aanmelden"><b>**AANMELDEN**</b></a></span>
+    <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
+      Inschrijvingen voor de <b>Hackathon</b> zijn nu open<span><a href="http://accountabilityhack.mu.wikiwise.nl/hackathon/"><b>**AANMELDEN**</b></a></span>
+    </div>
+    <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
+      Inschrijvingen voor de <b>Hackathon</b> zijn nu open
+      <br>
+      <br>
+      <div class="text-center"><a href="http://accountabilityhack.mu.wikiwise.nl/hackathon/"><b>**AANMELDEN**</b></a></div>
     </div>
   </div>
 </div>
 <div class="container">
   <div class="row">
     <br>
-    <div class="col-md-6 col-md-offset-3">
+    <div class="col-lg-5 col-lg-offset-1">
       <h1>Accountability Hack</h1>
       <p class="frontpage-content-text">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum accumsan euismod. Sed fermentum rutrum ipsum, eget tempor nunc varius ac. Duis mattis vitae quam ac malesuada. Vestibulum luctus venenatis imperdiet. Aenean vitae dictum odio. Quisque non risus vel dolor blandit varius ac non orci.
+        Aan de vooravond van Prinsjesdag kun je meedoen met Accountability Hack. De hackathon waar met open data geldstromen en prestaties van de overheid in kaart worden gebracht. Gebruik jij veel overheidsdata en wil jij de democratische controle versterken? Doe mee en maak de winnende app die de overheid op innoverende wijze controleert!
       </p>
+      <div class="row frontpage-content-icons">
+        <div class="col-xs-12 text-center">
+          <div class="col-xs-12 col-sm-6">
+            <span class="icon-basic_calendar icon-size"></span>
+            <h2 class="font-weight-normal">9 september</h2>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <span class="icon-basic_geolocalize-05 icon-size"></span>
+            <h2 class="font-weight-normal">Den Haag</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-lg-5 col-lg-offset-1 image-overlay">
+      <br class="hidden-xs">
+      <br class="hidden-xs">
+      <br class="hidden-xs">
+      <img src="http://accountabilityhack.mu.wikiwise.nl/wp-content/uploads/sites/19/2016/06/prinsjesdag_koffertje_orig_580.jpg" alt="Prinsjesdag koffertje" class="img-responsive"/>
     </div>
   </div>
 </div>

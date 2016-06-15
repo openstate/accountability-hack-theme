@@ -2,9 +2,9 @@
   <?php get_template_part('templates/frontpage-content') ?>
 <?php endif; ?>
 
-<br>
-<br>
-<br>
+<br class="hidden-xs">
+<br class="hidden-xs">
+<br class="hidden-xs">
 
 <?php if (!have_posts()) : ?>
   <div class="alert alert-warning">

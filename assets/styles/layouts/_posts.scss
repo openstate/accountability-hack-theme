@@ -18,7 +18,7 @@
   }
 }
 
-.home .category-datablog, .single .category-datablog {
+.post-overview .category-datablog {
   border: $border;
   padding: 0 15px 0 15px;
   margin: 10px;
@@ -35,7 +35,7 @@
   margin-right: 10px;
 }
 
-.post p {
+.post p, .page p {
   padding-bottom: 20px;
 }
 

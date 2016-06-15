@@ -4,10 +4,10 @@
     <div class="hidden-xs text-center">
       <div class="">
         <ul class="list-inline left-footer-list-padding">
-          <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
-          <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+          <li><a class="left-footer-padding" href="https://www.facebook.com/events/650584418426760/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+          <li><a class="left-footer-padding" href="https://twitter.com/OpenStateEU" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
           <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
-          <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack16" target="_blank">#AccHack16</a></li>
+          <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHackNL" target="_blank">#AccHackNL</a></li>
         </ul>
       </div>
       <br>
@@ -24,10 +24,10 @@
     </div>
     <div class="visible-xs-block">
       <ul class="list-inline left-footer-list-padding">
-        <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
-        <li><a class="left-footer-padding" href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+        <li><a class="left-footer-padding" href="https://www.facebook.com/events/650584418426760/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+        <li><a class="left-footer-padding" href="https://twitter.com/OpenStateEU" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
         <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
-        <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack16" target="_blank">#AccHack16</a></li>
+        <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHackNL" target="_blank">#AccHackNL</a></li>
       </ul>
       <br>
       <a href="http://www.rekenkamer.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/ar_bw.svg'; ?>" alt="Algemene Rekenkamer logo"></a>

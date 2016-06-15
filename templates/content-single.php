@@ -5,6 +5,14 @@
         <article <?php post_class(); ?>>
           <header>
             <h3 class="entry-title"><?php the_title(); ?></h3>
+            <?php
+              if (in_category('news')) {
+                echo '<span class="post-type"><b>[Nieuws]</b></span>';
+              }
+              elseif (in_category('datablog')) {
+                echo '<span class="post-type"><b>[Datablog]</b></span>';
+              }
+            ?>
             <?php get_template_part('templates/entry-meta'); ?>
           </header>
           <div class="entry-content">
@@ -12,7 +20,7 @@
           </div>
           <footer>
             <?php $category = get_the_category(); ?>
-            <div class="row">
+            <div class="row post-overview">
               <?php
                 $args = array( 'posts_per_page' => 4, 'post__not_in' => array(get_the_ID()), 'category_name' => $category[0]->name );
                 $myposts = get_posts( $args );

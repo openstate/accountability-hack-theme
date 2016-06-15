@@ -1,8 +1,8 @@
 <div class="container bg-light-blue">
   <div class="row">
-    <div class="col-lg-5 col-md-6 col-sm-7 col-xs-8">
+    <div class="col-xs-12 col-sm-7 col-md-6 col-lg-5">
       <div class="row">
-        <div class="col-sm-8 col-sm-offset-2 col-xs-12">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
           <h3><b>Nieuws &amp; Datablogs</b></h3>
         </div>
       </div>
@@ -13,7 +13,7 @@
     <div class="col-md-10 col-md-offset-1">
       <div class="row bg-white">
         <div class="col-md-10 col-md-offset-1">
-          <div class="row">
+          <div class="row post-overview">
             <br>
             <div class="col-md-6">
               <?php
