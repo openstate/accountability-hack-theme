@@ -12,18 +12,6 @@
     "linea-io": "~1.0.0"
   },
   "overrides": {
-    "linea-io": {
-      "main": [
-        "./linea.css",
-        "./fonts/*"
-      ]
-    },
-    "font-awesome": {
-      "main": [
-        "./scss/font-awesome.scss",
-        "./fonts/*"
-      ]
-    },
     "bootstrap-sass": {
       "main": [
         "./assets/stylesheets/_bootstrap.scss",
@@ -38,12 +26,19 @@
         "./assets/javascripts/bootstrap/popover.js",
         "./assets/javascripts/bootstrap/scrollspy.js",
         "./assets/javascripts/bootstrap/tab.js",
-        "./assets/javascripts/bootstrap/affix.js",
-        "./assets/fonts/bootstrap/glyphicons-halflings-regular.eot",
-        "./assets/fonts/bootstrap/glyphicons-halflings-regular.svg",
-        "./assets/fonts/bootstrap/glyphicons-halflings-regular.ttf",
-        "./assets/fonts/bootstrap/glyphicons-halflings-regular.woff",
-        "./assets/fonts/bootstrap/glyphicons-halflings-regular.woff2"
+        "./assets/javascripts/bootstrap/affix.js"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "./scss/font-awesome.scss",
+        "./fonts/*"
+      ]
+    },
+    "linea-io": {
+      "main": [
+        "./linea.css",
+        "./fonts/*"
       ]
     }
   }
