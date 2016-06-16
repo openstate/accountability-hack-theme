@@ -7,6 +7,10 @@
 .header-logo {
   position: relative;
   top: -50px;
+
+  a {
+    display: inline-block;
+  }
 }
 
 .current-menu-item {

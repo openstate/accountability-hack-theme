@@ -1,13 +1,13 @@
 <div class="container">
   <div class="row">
     <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
-      Inschrijvingen voor de <b>Hackathon</b> zijn nu open<span><a href="http://accountabilityhack.mu.wikiwise.nl/hackathon/"><b>**AANMELDEN**</b></a></span>
+      Inschrijvingen voor de <b>Hackathon</b> zijn nu open<span><a href="https://accountabilityhack.nl/hackathon/"><b>**AANMELDEN**</b></a></span>
     </div>
     <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
       Inschrijvingen voor de <b>Hackathon</b> zijn nu open
       <br>
       <br>
-      <div class="text-center"><a href="http://accountabilityhack.mu.wikiwise.nl/hackathon/"><b>**AANMELDEN**</b></a></div>
+      <div class="text-center"><a href="https://accountabilityhack.nl/hackathon/"><b>**AANMELDEN**</b></a></div>
     </div>
   </div>
 </div>
@@ -32,11 +32,11 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-12 col-lg-5 col-lg-offset-1 image-overlay">
+    <div class="col-xs-10 col-xs-offset-1 col-lg-5 image-overlay">
       <br class="hidden-xs">
       <br class="hidden-xs">
       <br class="hidden-xs">
-      <img src="http://accountabilityhack.mu.wikiwise.nl/wp-content/uploads/sites/19/2016/06/prinsjesdag_koffertje_orig_580.jpg" alt="Prinsjesdag koffertje" class="img-responsive"/>
+      <img src="https://accountabilityhack.nl/wp-content/uploads/sites/19/2016/06/prinsjesdag_koffertje_orig_580.jpg" alt="Prinsjesdag koffertje" class="img-responsive"/>
     </div>
   </div>
 </div>
