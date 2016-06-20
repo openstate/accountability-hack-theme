@@ -32,7 +32,7 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-10 col-xs-offset-1 col-lg-5 image-overlay">
+    <div class="col-xs-10 col-xs-offset-1 col-lg-5 col-lg-offset-0 image-overlay">
       <br class="hidden-xs">
       <br class="hidden-xs">
       <br class="hidden-xs">
