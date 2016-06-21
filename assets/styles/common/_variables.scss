@@ -18,6 +18,8 @@ $white:             rgb(255, 255, 255) !default;
 $grey:              rgb(242, 242, 242) !default;
 $black:             rgb(0, 0, 0) !default;
 
+$text-color:        $black;
+
 // Lines
 $border:            2px dotted $black;
 $border-white:      2px dotted $white;
