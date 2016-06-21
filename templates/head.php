@@ -6,6 +6,10 @@
   <meta property="og:title" content="Accountability Hack - 9 september @ de Algemene Rekenkamer" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://accountabilityhack.nl/wp-content/themes/accountability-hack-theme/dist/images/logo-accountability-hack-og.png" />
+  <meta property="og:image:secure_url" content="https://accountabilityhack.nl/wp-content/themes/accountability-hack-theme/dist/images/logo-accountability-hack-og.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="2321" />
+  <meta property="og:image:height" content="1102" />
   <?php wp_head(); ?>
   <link href="https://fonts.googleapis.com/css?family=Cousine%7CLato" rel="stylesheet">
   <script>
