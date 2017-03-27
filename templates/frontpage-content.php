@@ -1,13 +1,13 @@
 <div class="container">
   <div class="row">
     <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
-      Inschrijvingen voor de <b>Hackathon</b> zijn nu open<span><a href="https://accountabilityhack.nl/hackathon/"><b>**AANMELDEN**</b></a></span>
+      Benieuwd naar de resultaten?<span><a href="https://accountabilityhack.nl/2016/09/09/spel-wie-is-de-slimste-burger-winnaar-eerste-nederlandse-accountability-hack/"><b>**VERSLAG**</b></a></span>
     </div>
     <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
-      Inschrijvingen voor de <b>Hackathon</b> zijn nu open
+      Benieuwd naar de resultaten?
       <br>
       <br>
-      <div class="text-center"><a href="https://accountabilityhack.nl/hackathon/"><b>**AANMELDEN**</b></a></div>
+      <div class="text-center"><a href="https://accountabilityhack.nl/2016/09/09/spel-wie-is-de-slimste-burger-winnaar-eerste-nederlandse-accountability-hack/"><b>**VERSLAG**</b></a></div>
     </div>
   </div>
 </div>
