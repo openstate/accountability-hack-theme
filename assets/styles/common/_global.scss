@@ -13,23 +13,26 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-serif;
+  font-weight: 400;
   color: $black;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 32px;
+  font-weight: 300;
 }
 
-h1::before {
-  content: "#";
+h2 {
+  font-size: 24px;
+  font-weight: 300;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 21px;
 }
 
-h3::before {
-  content: "##";
+h4 {
+  font-size: 18px;
 }
 
 .button, .btn {
@@ -37,7 +40,7 @@ h3::before {
 }
 
 p {
-  text-size: 14px;
+  font-size: 16px;
   text-align: left;
 }
 

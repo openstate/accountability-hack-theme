@@ -10,6 +10,10 @@
 
   a {
     display: inline-block;
+    img {
+      width: 220px;
+      height: 220px;
+    }
   }
 }
 
@@ -18,8 +22,8 @@
     font-weight: bold;
   }
 
-  ::before, ::after {
-    content: '**';
+  ::before {
+    content: '> ';
   }
 }
 
@@ -27,18 +31,10 @@
   clear: both;
 }
 
-.collapse li {
-  float: left;
-}
-
 .brand-header {
   color: transparent;
   font: 0 / 0 a;
   display: inline;
-}
-
-.visible-lg-inline .nav-primary {
-  border-bottom: $border;
 }
 
 .nav-primary {
