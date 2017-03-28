@@ -3,7 +3,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Open State Foundation">
-  <meta property="og:title" content="Accountability Hack - 9 juni @ Tweede Kamer" />
+  <meta property="og:title" content="Accountability Hack - 9 juni 2017 @ Tweede Kamer" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://accountabilityhack.nl/wp-content/themes/accountability-hack-theme/dist/images/logo-accountability-hack-og.png" />
   <meta property="og:image:secure_url" content="https://accountabilityhack.nl/wp-content/themes/accountability-hack-theme/dist/images/logo-accountability-hack-og.png" />
