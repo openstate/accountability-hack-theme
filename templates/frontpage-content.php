@@ -1,15 +1,15 @@
 <div class="container">
   <div class="row">
     <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
-      Blijf op de hoogte via de nieuwsbrief
+      De inschrijving is nu open!
       <span>
-        <?php get_template_part('templates/newsletter'); ?>
+        <a href="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219" target="_blank" class="btn btn-default">Inschrijven</a>
       </span>
     </div>
     <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
-      Blijf op de hoogte via de nieuwsbrief
+      De inschrijving is nu open!
       <span>
-        <?php get_template_part('templates/newsletter'); ?>
+        <a href="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219" target="_blank" class="btn btn-default">Inschrijven</a>
       </span>
     </div>
   </div>
