@@ -14,9 +14,15 @@
     color: $black !important;
   }
 
-  &.visible-lg-block {
+  &.hidden-xs {
     span {
       float: right !important;
+    }
+  }
+
+  &.visible-xs-block {
+    input {
+      margin-top: 10px;
     }
   }
 }

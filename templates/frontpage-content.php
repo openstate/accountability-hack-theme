@@ -1,6 +1,6 @@
 <div class="container">
   <div class="row">
-    <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
+    <div class="hidden-xs col-md-10 col-md-offset-1 registration-banner">
       De inschrijving is nu open!
       <span>
         <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
@@ -8,7 +8,7 @@
         </form>
       </span>
     </div>
-    <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
+    <div class="visible-xs-block col-md-10 col-md-offset-1 registration-banner">
       De inschrijving is nu open!
       <span>
         <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
