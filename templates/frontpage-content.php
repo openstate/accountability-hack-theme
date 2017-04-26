@@ -3,13 +3,17 @@
     <div class="visible-lg-block col-md-10 col-md-offset-1 registration-banner">
       De inschrijving is nu open!
       <span>
-        <a href="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219" target="_blank" class="btn btn-default">Inschrijven</a>
+        <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
+          <input type="submit" id="inschrijven" value="inschrijven"/>
+        </form>
       </span>
     </div>
     <div class="hidden-lg col-md-10 col-md-offset-1 registration-banner">
       De inschrijving is nu open!
       <span>
-        <a href="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219" target="_blank" class="btn btn-default">Inschrijven</a>
+        <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
+          <input type="submit" id="inschrijven" value="inschrijven"/>
+        </form>
       </span>
     </div>
   </div>
