@@ -7,7 +7,7 @@
           <li><a class="left-footer-padding" href="https://facebook.com/events/825035247660219/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
           <li><a class="left-footer-padding" href="https://twitter.com/OpenStateEU" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
           <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
-          <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHackNL" target="_blank">#AccHackNL</a></li>
+          <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack17" target="_blank">#AccHack17</a></li>
         </ul>
       </div>
       <br>
@@ -29,7 +29,7 @@
         <li><a class="left-footer-padding" href="https://facebook.com/events/825035247660219/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
         <li><a class="left-footer-padding" href="https://twitter.com/OpenStateEU" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
         <li><a class="left-footer-padding" href="https://github.com/openstate" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
-        <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHackNL" target="_blank">#AccHackNL</a></li>
+        <li><a class="hashtag-font-size" href="https://twitter.com/search?f=tweets&q=#AccHack17" target="_blank">#AccHack17</a></li>
       </ul>
       <br>
       <a href="http://www.rekenkamer.nl/" target="_blank"><img class="right-footer-image" src="<?= get_template_directory_uri() . '/dist/images/ar_bw.svg'; ?>" alt="Algemene Rekenkamer logo"></a>
