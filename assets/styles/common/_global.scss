@@ -45,8 +45,10 @@ p {
   text-align: left;
 }
 
-
-.post p a, .page p a {
+.post p a,
+.page p a,
+.post table a,
+.page table a {
   text-decoration: underline;
 }
 
