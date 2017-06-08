@@ -1,5 +1,15 @@
 <div class="container">
   <div class="row">
+    <div class="hidden-xs col-md-10 col-md-offset-1 registration-banner">
+      Praat en kijk mee met Accountability Hack 2017 via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a>
+    </div>
+    <div class="visible-xs-block col-md-10 col-md-offset-1 registration-banner">
+      Praat en kijk mee met Accountability Hack 2017 via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
     <br>
     <div class="col-lg-5 col-lg-offset-1">
       <h1>Accountability Hack</h1>
