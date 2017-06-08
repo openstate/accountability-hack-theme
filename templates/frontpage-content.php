@@ -1,25 +1,5 @@
 <div class="container">
   <div class="row">
-    <div class="hidden-xs col-md-10 col-md-offset-1 registration-banner">
-      De inschrijving is nu open!
-      <span>
-        <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
-          <input type="submit" id="inschrijven" value="inschrijven"/>
-        </form>
-      </span>
-    </div>
-    <div class="visible-xs-block col-md-10 col-md-offset-1 registration-banner">
-      De inschrijving is nu open!
-      <span>
-        <form target="_blank" action="https://www.eventbrite.nl/e/tickets-accountability-hack-2017-33850320219">
-          <input type="submit" id="inschrijven" value="inschrijven"/>
-        </form>
-      </span>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="row">
     <br>
     <div class="col-lg-5 col-lg-offset-1">
       <h1>Accountability Hack</h1>
