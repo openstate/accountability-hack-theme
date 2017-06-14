@@ -1,10 +1,10 @@
 <div class="container">
   <div class="row">
     <div class="hidden-xs col-md-10 col-md-offset-1 registration-banner">
-      Praat en kijk mee met Accountability Hack 2017 via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a>
+      Bekijk alle inzendingen terug via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a> en zie <a href="https://accountabilityhack.nl/2017/06/09/app-de-gemeente-deler-winnaar-accountability-hack-2017/">hier de winnaars</a>
     </div>
     <div class="visible-xs-block col-md-10 col-md-offset-1 registration-banner">
-      Praat en kijk mee met Accountability Hack 2017 via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a>
+      Bekijk alle inzendingen terug via <a href="http://nl-spod.routetopa.eu/" target="_blank">SPOD</a> en zie <a href="https://accountabilityhack.nl/2017/06/09/app-de-gemeente-deler-winnaar-accountability-hack-2017/">hier de winnaars</a>
     </div>
   </div>
 </div>
