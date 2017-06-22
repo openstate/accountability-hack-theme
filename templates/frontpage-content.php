@@ -29,11 +29,13 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-10 col-xs-offset-1 col-lg-5 col-lg-offset-0 image-overlay">
+    <div class="col-xs-10 col-xs-offset-1 col-lg-5 col-lg-offset-0">
       <br class="hidden-xs">
       <br class="hidden-xs">
       <br class="hidden-xs">
-      <img src="<?= get_template_directory_uri() . '/dist/images/tk_front.jpg'; ?>" alt="Tweede Kamer" class="img-responsive"></a>
+      <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/222332071?color=C8FFFF&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="360" frameborder="0"></iframe>
+      </div>
     </div>
   </div>
 </div>
